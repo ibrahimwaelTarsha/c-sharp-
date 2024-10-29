@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCoreAndLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b2e3aba3134eef3c212e820211815346a813a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e52232fbea6a1ccc90ca0e2dd3cef185b5d663f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCoreAndLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCoreAndLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
