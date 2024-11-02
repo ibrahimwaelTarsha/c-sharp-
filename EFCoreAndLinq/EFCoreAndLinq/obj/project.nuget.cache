@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWKwjXas9+x0Li8QQSEywBfrFtgmDVuOEic32EwNd7uxK1jxU5hW7mIvB5VRPSJOW3D0YeGp7TycOGTwar5T1w==",
+  "dgSpecHash": "j7Q16PognzLw7XPKzG59KqYQ8ff76VOer2c7v3kZcxYd7gaftoC+VLVmrjE3PCKZkpDdtlpyoaMsTRFl0n8ABA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\Desktop\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\EFCoreAndLinq.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\c-sharp-\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\EFCoreAndLinq.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

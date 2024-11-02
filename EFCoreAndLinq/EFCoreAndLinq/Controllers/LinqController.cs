@@ -784,8 +784,8 @@ namespace EFCoreAndLinq.Controllers
             // to be continue 
 
 
-
-            // var productSummaries = await _contextClass.Database.
+            // tell ef core that getdata from stored procedure And mapped it in category
+        await _contextClass.Categories.FromSqlRaw("some procedure").ToListAsync();
 
 
 

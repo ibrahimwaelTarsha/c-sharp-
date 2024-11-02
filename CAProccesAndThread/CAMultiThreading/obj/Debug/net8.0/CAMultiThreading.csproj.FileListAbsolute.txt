@@ -1,0 +1,28 @@
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.exe
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.deps.json
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.runtimeconfig.json
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.dll
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.pdb
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.AssemblyInfo.cs
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.dll
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\refint\CAMultiThreading.dll
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.pdb
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.genruntimeconfig.cache
+C:\Users\MSI\source\repos\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\ref\CAMultiThreading.dll
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.exe
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.deps.json
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.runtimeconfig.json
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.dll
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\bin\Debug\net8.0\CAMultiThreading.pdb
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.dll
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\refint\CAMultiThreading.dll
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.pdb
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\CAMultiThreading.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\CAMultiThreading\obj\Debug\net8.0\ref\CAMultiThreading.dll

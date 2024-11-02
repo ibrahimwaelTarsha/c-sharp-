@@ -4592,11 +4592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\EFCoreAndLinq.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\c-sharp-\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\EFCoreAndLinq.csproj",
       "projectName": "EFCoreAndLinq",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\EFCoreAndLinq.csproj",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\c-sharp-\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\EFCoreAndLinq.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\c-sharp-\\c-sharp-\\EFCoreAndLinq\\EFCoreAndLinq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

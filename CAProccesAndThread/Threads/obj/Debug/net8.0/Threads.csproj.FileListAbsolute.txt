@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\bin\Debug\net8.0\Threads.exe
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\bin\Debug\net8.0\Threads.deps.json
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\bin\Debug\net8.0\Threads.runtimeconfig.json
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\bin\Debug\net8.0\Threads.dll
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\bin\Debug\net8.0\Threads.pdb
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\Threads.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\Threads.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\Threads.dll
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\refint\Threads.dll
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\Threads.pdb
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\Threads.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Async lesson\CAProccesAndThread\Threads\obj\Debug\net8.0\ref\Threads.dll

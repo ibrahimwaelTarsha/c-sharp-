@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\bin\Debug\net8.0\Static.exe
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\bin\Debug\net8.0\Static.deps.json
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\bin\Debug\net8.0\Static.runtimeconfig.json
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\bin\Debug\net8.0\Static.dll
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\bin\Debug\net8.0\Static.pdb
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.sourcelink.json
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.dll
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\refint\Static.dll
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.pdb
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\Static.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c-sharp-\c-sharp-\AllAboutStatic\Static\obj\Debug\net8.0\ref\Static.dll
